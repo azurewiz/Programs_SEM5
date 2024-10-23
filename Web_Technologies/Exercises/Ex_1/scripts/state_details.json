@@ -1,0 +1,240 @@
+{
+  "IN-AN": {
+    "name": "Andaman and Nicobar Islands",
+    "population": "380,000",
+    "capital": "Port Blair",
+    "area": "8,249 km²",
+    "description": "A tropical island group with beautiful beaches."
+  },
+  "IN-AP": {
+    "name": "Andhra Pradesh",
+    "population": "49.6 million",
+    "capital": "Amaravati",
+    "area": "160,205 km²",
+    "description": "Known for its rich cultural heritage and long coastline."
+  },
+  "IN-AR": {
+    "name": "Arunachal Pradesh",
+    "population": "1.5 million",
+    "capital": "Itanagar",
+    "area": "83,743 km²",
+    "description": "Located in the northeastern tip of India, with stunning landscapes."
+  },
+  "IN-AS": {
+    "name": "Assam",
+    "population": "31.2 million",
+    "capital": "Dispur",
+    "area": "78,438 km²",
+    "description": "Famous for Assam tea, silk, and the Brahmaputra River."
+  },
+  "IN-BR": {
+    "name": "Bihar",
+    "population": "104.1 million",
+    "capital": "Patna",
+    "area": "94,163 km²",
+    "description": "An ancient state with a rich cultural history and vibrant traditions."
+  },
+  "IN-CH": {
+    "name": "Chandigarh",
+    "population": "1.1 million",
+    "capital": "Chandigarh",
+    "area": "114 km²",
+    "description": "A union territory and city, known for its modern architecture."
+  },
+  "IN-CT": {
+    "name": "Chhattisgarh",
+    "population": "25.5 million",
+    "capital": "Raipur",
+    "area": "135,191 km²",
+    "description": "Famous for its forests and rich tribal culture."
+  },
+  "IN-DL": {
+    "name": "Delhi",
+    "population": "18.9 million",
+    "capital": "New Delhi",
+    "area": "1,484 km²",
+    "description": "The capital of India, a bustling city with historical landmarks."
+  },
+  "IN-GA": {
+    "name": "Goa",
+    "population": "1.5 million",
+    "capital": "Panaji",
+    "area": "3,702 km²",
+    "description": "A popular tourist destination known for its beaches and Portuguese heritage."
+  },
+  "IN-GJ": {
+    "name": "Gujarat",
+    "population": "60.4 million",
+    "capital": "Gandhinagar",
+    "area": "196,024 km²",
+    "description": "Known for its vibrant culture and thriving industries."
+  },
+  "IN-HR": {
+    "name": "Haryana",
+    "population": "25.3 million",
+    "capital": "Chandigarh",
+    "area": "44,212 km²",
+    "description": "A leading agricultural state with a rich sporting tradition."
+  },
+  "IN-HP": {
+    "name": "Himachal Pradesh",
+    "population": "6.8 million",
+    "capital": "Shimla",
+    "area": "55,673 km²",
+    "description": "Famous for its scenic hill stations and natural beauty."
+  },
+  "IN-JH": {
+    "name": "Jharkhand",
+    "population": "32.9 million",
+    "capital": "Ranchi",
+    "area": "79,714 km²",
+    "description": "Rich in mineral resources, with dense forests and tribal culture."
+  },
+  "IN-JK": {
+    "name": "Jammu & Kashmir",
+    "population": "12.5 million",
+    "capital": "Srinagar",
+    "area": "55,538 km²",
+    "description": "Famous for its stunning landscapes, rich cultural diversity, exquisite handicrafts"
+  },
+  "IN-KA": {
+    "name": "Karnataka",
+    "population": "61.1 million",
+    "capital": "Bengaluru",
+    "area": "191,791 km²",
+    "description": "Known for its technology industry and diverse landscapes."
+  },
+  "IN-KL": {
+    "name": "Kerala",
+    "population": "33.4 million",
+    "capital": "Thiruvananthapuram",
+    "area": "38,863 km²",
+    "description": "Famous for its backwaters, Ayurveda, and high literacy rate."
+  },
+  "IN-LD": {
+    "name": "Lakshadweep",
+    "population": "64,473",
+    "capital": "Kavaratti",
+    "area": "32 km²",
+    "description": "A group of islands known for their marine biodiversity and coral reefs."
+  },
+  "IN-MP": {
+    "name": "Madhya Pradesh",
+    "population": "72.6 million",
+    "capital": "Bhopal",
+    "area": "308,350 km²",
+    "description": "The heart of India, with a rich cultural and historical heritage."
+  },
+  "IN-MH": {
+    "name": "Maharashtra",
+    "population": "112.4 million",
+    "capital": "Mumbai",
+    "area": "307,713 km²",
+    "description": "A leading industrial state and home to India's financial capital, Mumbai."
+  },
+  "IN-MN": {
+    "name": "Manipur",
+    "population": "2.7 million",
+    "capital": "Imphal",
+    "area": "22,327 km²",
+    "description": "A state in northeast India known for its rich cultural traditions."
+  },
+  "IN-ML": {
+    "name": "Meghalaya",
+    "population": "2.9 million",
+    "capital": "Shillong",
+    "area": "22,429 km²",
+    "description": "Famous for its picturesque landscapes and living root bridges."
+  },
+  "IN-MZ": {
+    "name": "Mizoram",
+    "population": "1.1 million",
+    "capital": "Aizawl",
+    "area": "21,081 km²",
+    "description": "Known for its rolling hills and vibrant tribal culture."
+  },
+  "IN-NL": {
+    "name": "Nagaland",
+    "population": "1.9 million",
+    "capital": "Kohima",
+    "area": "16,579 km²",
+    "description": "A northeastern state with rich tribal heritage and festivals."
+  },
+  "IN-OR": {
+    "name": "Odisha",
+    "population": "41.9 million",
+    "capital": "Bhubaneswar",
+    "area": "155,707 km²",
+    "description": "Known for its ancient temples, beaches, and classical dance forms."
+  },
+  "IN-PY": {
+    "name": "Puducherry",
+    "population": "1.5 million",
+    "capital": "Puducherry",
+    "area": "490 km²",
+    "description": "A former French colony with a unique blend of French and Indian culture."
+  },
+  "IN-PB": {
+    "name": "Punjab",
+    "population": "27.7 million",
+    "capital": "Chandigarh",
+    "area": "50,362 km²",
+    "description": "Known for its agricultural productivity and vibrant culture."
+  },
+  "IN-RJ": {
+    "name": "Rajasthan",
+    "population": "68.5 million",
+    "capital": "Jaipur",
+    "area": "342,239 km²",
+    "description": "The largest state in India, known for its desert landscapes and historic palaces."
+  },
+  "IN-SK": {
+    "name": "Sikkim",
+    "population": "610,000",
+    "capital": "Gangtok",
+    "area": "7,096 km²",
+    "description": "A small Himalayan state, famous for its scenic beauty and Buddhist monasteries."
+  },
+  "IN-TN": {
+    "name": "Tamil Nadu",
+    "population": "72.1 million",
+    "capital": "Chennai",
+    "area": "130,058 km²",
+    "description": "Known for its rich history, classical arts, and temples."
+  },
+  "IN-TG": {
+    "name": "Telangana",
+    "population": "35.2 million",
+    "capital": "Hyderabad",
+    "area": "112,077 km²",
+    "description": "A state with a blend of modern IT hubs and ancient heritage."
+  },
+  "IN-TR": {
+    "name": "Tripura",
+    "population": "3.7 million",
+    "capital": "Agartala",
+    "area": "10,491 km²",
+    "description": "A northeastern state, known for its rich culture and bamboo handicrafts."
+  },
+  "IN-UP": {
+    "name": "Uttar Pradesh",
+    "population": "199.8 million",
+    "capital": "Lucknow",
+    "area": "243,286 km²",
+    "description": "The most populous state in India, known for its Mughal architecture."
+  },
+  "IN-UT": {
+    "name": "Uttarakhand",
+    "population": "10.1 million",
+    "capital": "Dehradun",
+    "area": "53,483 km²",
+    "description": "A state with breathtaking landscapes, known for its hill stations."
+  },
+  "IN-WB": {
+    "name": "West Bengal",
+    "population": "91.3 million",
+    "capital": "Kolkata",
+    "area": "88,752 km²",
+    "description": "Known for its rich cultural history and vibrant festivals."
+  }
+}

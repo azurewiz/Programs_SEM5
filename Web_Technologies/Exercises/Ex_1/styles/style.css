@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.map-container {
+  position: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#india-map {
+  width: 100%;
+  height: auto;
+}
+
+.state {
+  fill: #ccc;
+  stroke: #333;
+  cursor: pointer;
+  transition: fill 0.3s ease;
+}
+
+.state:hover {
+  fill: #ff9900;
+}
+
+.info-box {
+  min-width: 500px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  display: none;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.info-box.active {
+  display: block;
+}

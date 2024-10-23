@@ -1,0 +1,39 @@
+.horizontal-row {
+  width: 100%;
+  height: 12vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.box {
+  width: 40%;
+  height: 100%;
+  float: left;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  align-content: center;
+  text-align: center;
+}
+
+.box:last-child {
+  margin-right: 0; /* Remove margin from the last item */
+}
+
+.user-dp {
+  display: inline-block;
+  width: 25%;
+  height: 25%;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin: auto;
+} 
+
+img {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  object-fit: cover;
+}
